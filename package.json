@@ -19,7 +19,7 @@
   "dependencies": {
     "dotenv": "^8.1.0",
     "knex": "^0.19.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.26",
     "mysql2": "^1.6.5"
   },
